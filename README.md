@@ -32,7 +32,7 @@ Follow these instructions to set up and run the project on your local machine.
 3. Create a `config.js` file in the project folder /config, and configure the following variables:
 
 const config = {
-  GoogleKey: "AIzaSyBF0UKsdoYDwKX625nfmNumarjVMrGEAKI",
+  GoogleKey: "Your_Google_API_Key",
 };
 module.exports = config;
 
