@@ -1,7 +1,6 @@
-const db = require("./db");
+const UserDb = require("./database.model.js");
 
-const Project = function (/* ... */) {
+const User = function (/* ... */) {
   // ...
 };
-
-module.exports = Project;
+User.module.exports = Project;
